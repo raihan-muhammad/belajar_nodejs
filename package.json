@@ -1,0 +1,17 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "Belajar nodejs",
+  "scripts": {
+    "start": "node index.js",
+    "create": "mkdir src",
+    "dev": "nodemon index.js"
+  },
+  "main": "index.js",
+  "author": "Raihan",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
